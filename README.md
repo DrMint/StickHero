@@ -1,4 +1,4 @@
-# StickHero
+# Stick Hero on PyGame
 This is a recreation of the Stick Hero game published by Ketchapp and created by Ubisoft Mobile.
 
 ## Create stick of the right size to get to the next platform.
