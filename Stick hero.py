@@ -72,7 +72,7 @@ game_info = Game_info()                                      # Give a name to th
 # [Game informations] #
 
 game_info.title = "Stick HERO"
-game_info.author = "Thomas Barillot"
+game_info.author = "DrMint"
 game_info.year = 2017
 game_info.month = 11
 game_info.day = 26
@@ -81,7 +81,7 @@ game_info.day = 26
 
 # [Window options]
 
-screen.x, screen.y = 1400, 1000
+screen.x, screen.y = 1500, 840
 screen.fps = 60
 screen.fullscreen = False
 
