@@ -8,7 +8,7 @@ This is a recreation of the Stick Hero game published by Ketchapp and created by
 ![](https://www.r-entries.com/etuliens/img/Stick/1.gif)
 
 ## If you fall short or overshoot, it resets your score. Instant retry!
-![](https://www.r-entries.com/etuliens/img/Stick/2.gif)
+![](https://www.r-entries.com/etuliens/img/Stick/3.gif)
 
 ## If you hit the red inner platform you get a bonus.
 ![](https://www.r-entries.com/etuliens/img/Stick/2.gif)
