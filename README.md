@@ -4,5 +4,5 @@ This is a recreation of the Stick Hero game published by Ketchapp and created by
 ## Compatible in portrait and landscape mode
 ![](https://www.r-entries.com/etuliens/img/Stick/mockup.png)
 
-## Feature a parralax background
+## Feature an infinite parralax background
 ![](https://www.r-entries.com/etuliens/img/Stick/parallax2.gif)
