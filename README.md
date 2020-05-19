@@ -5,4 +5,4 @@ This is a recreation of the Stick Hero game published by Ketchapp and created by
 ![](https://www.r-entries.com/etuliens/img/Stick/portrait.png)
 
 ## Game in landscape mode
-![](https://www.r-entries.com/etuliens/img/Stick/portrait.png)
+![](https://www.r-entries.com/etuliens/img/Stick/paysage.png)
