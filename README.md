@@ -19,7 +19,7 @@ The first time you get 1 more point. If you land a second stick on the red platf
 ## Feature an infinite parralax background
 Assets are taken from Firewatch's website.
 
-![](https://r-entries.com/etuliens/img/Stick/parallax2.gif)
+![gif file](https://r-entries.com/etuliens/img/Stick/parallax2.gif)
 
 ## Compatible in portrait and landscape mode.
 
